@@ -1,10 +1,10 @@
-# BaKhabar SMS Recommendation System (RFM-Based)
+# SMS Marketing Automation System (RFM-Based)
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.30+-FF4B4B.svg)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-15+-336791.svg)
 
-A modular, high-performance marketing automation system designed for the BaKhabar Kissan ecosystem. This application enables segment-based customer targeting, AI-powered product recommendations, and automated Urdu SMS orchestration with integrated link tracking.
+A modular, high-performance marketing automation system. This application enables segment-based customer targeting, AI-powered product recommendations, and automated Urdu SMS orchestration with integrated link tracking.
 
 ---
 
