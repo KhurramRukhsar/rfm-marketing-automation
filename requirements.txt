@@ -1,0 +1,11 @@
+streamlit
+pandas
+psycopg2-binary
+python-dotenv
+aiohttp
+joblib
+scikit-learn
+xgboost
+openpyxl
+requests
+scipy
