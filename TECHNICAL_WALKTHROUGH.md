@@ -1,4 +1,4 @@
-# Technical Walkthrough: BaKhabar SMS Recommendation System
+# Technical Walkthrough: SMS Marketing Automation System (RFM-Based)
 
 This document provides a deep dive into the architecture, module design, and technical workflows of the BaKhabar SMS Recommendation System.
 
